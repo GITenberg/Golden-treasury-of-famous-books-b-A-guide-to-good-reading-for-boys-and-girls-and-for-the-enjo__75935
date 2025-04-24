@@ -1,0 +1,28 @@
+_repo: Golden-treasury-of-famous-books-b-A-guide-to-good-reading-for-boys-and-girls-and-for-the-enjo__75935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Willison, Marjory MacMurchy, Lady
+    alias: MacMurchy, Marjory
+    deathdate: 1938
+    gutenberg_agent_id: '28367'
+    url: http://www.gutenberg.org/2009/agents/28367
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75935'
+language: en
+pgterms:marc905: 20250412094926willison
+pgterms:marc906: '1929'
+pgterms:marc907: '1929'
+production_note: Al Haines
+publication_note: '  $aToronto :$bThe Macmillan Company of Canada Limited, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Golden treasury of famous books : $b A guide to good reading for boys and
+  girls, and for the enjoyment of those who love books'
+url: http://www.gutenberg.org/ebooks/75935
