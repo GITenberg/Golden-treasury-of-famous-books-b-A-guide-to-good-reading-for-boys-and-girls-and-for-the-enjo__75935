@@ -1,5 +1,8 @@
 _repo: Golden-treasury-of-famous-books-b-A-guide-to-good-reading-for-boys-and-girls-and-for-the-enjo__75935
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75935-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Willison, Marjory MacMurchy, Lady
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '28367'
     url: http://www.gutenberg.org/2009/agents/28367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75935#Golden-treasury-of-famous-books-b-A-guide-to-good-reading-for-boys-and-girls-and-for-the-enjo_
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
